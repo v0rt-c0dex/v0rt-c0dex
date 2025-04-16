@@ -1,0 +1,24 @@
+╔══════════════════════════════════╗
+║    Transmission Fragment 1A     ║
+╚══════════════════════════════════╝
+
+Seal: 13 K'an — Solar Seal 13
+
+Thirteen seeds buried across protocol shadows.
+
+Encrypted message:
+Vm9sa292dHppbi4xOS4xOTEzLi4uQkFMQU0=
+
+Hint:
+- Decode the Base64.
+- The message describes the first set of steps.
+- Use the Tzolk'in date as a time indicator.
+
+---
+**Reward upon decryption:**  
+Unlocks initial insights into Telegram’s hidden network of private channels, focusing on moderation behavior in politically sensitive groups.
+
+╔══════════════════════════════════╗
+║     The path is hidden, but it    ║
+║        begins in silence.         ║
+╚══════════════════════════════════╝
