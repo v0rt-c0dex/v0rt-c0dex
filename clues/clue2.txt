@@ -1,0 +1,32 @@
+╔══════════════════════════════════╗
+║    Transmission Fragment 2A     ║
+╚══════════════════════════════════╝
+
+Seal: 7 K'at — Red Network
+
+Nodes are unseen but pulse with the report.  
+The channel still lives, yet no longer exists.
+
+> "When a channel receives 5 reports within 30 seconds from accounts that never interacted, the server applies a 'silent algorithm'."
+
+> "The most effective method: coordinated traffic from spoofed WebK+TDLib instances routed through Tor nodes with Russian fingerprints."
+
+Encrypted message:
+
+ZEdobElIUmxiblJoYm1RZ1pXNWpiSFZrWldOb1pXbHVJRzFwYm1jPQ==
+
+Hint:
+- Original message is in Spanish.
+- Decode the Base64.
+- Apply Caesar cipher: shift -9
+- Interpret under Long Count structure: baktun.katun.tun.uinal.kin
+
+---
+**Reward upon decryption:**  
+You will unlock a hidden list of IPv6 addresses used in shadowban attacks via simulated web traffic.  
+These addresses have been linked to mass-silencing operations targeting political Telegram channels.
+
+╔══════════════════════════════════╗  
+║         Silence also has         ║  
+║         an infrastructure.       ║  
+╚══════════════════════════════════╝
