@@ -1,0 +1,40 @@
+╔══════════════════════════════════╗
+║    Transmission Fragment 3A     ║
+╚══════════════════════════════════╝
+
+Seal: 11 Etz’nab’ — Mirror Protocol
+
+A threshold exists where moderation tools cease to be external.  
+Behavioral fingerprinting replaces user reporting.  
+Data flows between device behavior and pattern recognition nodes.
+
+> "Telegram’s internal traffic shaping system monitors TDLib instance memory leaks to detect non-standard message patterns."
+
+> "Russian-based mod teams in 2023 used fingerprint templates from banned devices (via XPrivacyLua logs) to proactively suppress clones — before user interaction."
+
+> "At least 3 regional moderation bots were linked to external IPs overlapping with municipal infrastructure."
+
+Encrypted message:
+
+WFd4bWJtRnRaVzUwSUdWc2JHOGdkR2hsSUhSdklHbHVkR1Z5YVc1bklHZGhhV1FnWVdOb2FXZG9kQ0JoY0hCc1pTNWpiSFZrWldOb1pXbHVJRzFwYm1jPQ==
+
+Hint:
+- Decode the Base64.
+- Decrypt the resulting message using Vigenère cipher with the key: `mirrorlog`
+- Extract coordinates and compare against ASN mapping via RIPE DB.
+
+---
+**Reward upon decryption:**  
+Access to a report on Telegram’s behavioral-based moderation system (2023),  
+including logs of preemptive bans triggered **before user complaints**.  
+Also includes metadata leaks from cloned TDLib forks used in research projects in Novosibirsk and Kazan.
+
+Verified sources:
+- XPrivacyLua forensic exports (2022–2023)  
+- ASN IP overlap logs from Deutsche Telekom / Rostelecom  
+- Telegram Beta v9.4 traffic anomaly test results
+
+╔══════════════════════════════════╗  
+║     Fingerprints don’t need      ║  
+║     names to silence traffic.    ║  
+╚══════════════════════════════════╝
