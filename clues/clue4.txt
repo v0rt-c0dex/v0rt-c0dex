@@ -1,0 +1,31 @@
+╔══════════════════════════════════╗
+║    Transmission Fragment 4A     ║
+╚══════════════════════════════════╝
+
+Seal: 9 Ix — Institutional Matrix
+
+A European relay used for Telegram moderation was documented in 2023, tied to enforcement under the Digital Services Act (DSA).
+
+The operation involved silent takedowns routed through law enforcement proxies, bypassing public-facing moderation. The requests were justified under clauses of "coordinated manipulation" and "digital public safety".
+
+> Contact node: pp-swn.pp.e2@polizei.bayern.de  
+> DSA Key Reference: 1122334 / 1703421449  
+> Country Node: Bayern, Germany
+
+Encrypted fragment:  
+T1Z4Y1ltVjVZWEpwYm1jZ2RHVnVJR1pwYkd3Z1lXNWpiSFZrWldOb1pXbHVJRzFwYm1jPQ==
+
+Hint:
+- Base64 decode.  
+- XOR with result from clue2.  
+- Format output using `dsa_method.pdf`.
+
+---
+**Reward upon decryption:**  
+You’ll receive privileged access to a legal yet rarely used DSA enforcement pathway for Telegram content moderation.  
+This includes structured steps, contact templates, and jurisdiction-ready submission formats.
+
+╔══════════════════════════════════╗  
+║        Silence needs gates.       ║  
+║     This one has a state seal.    ║  
+╚══════════════════════════════════╝
