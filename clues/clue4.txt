@@ -1,3 +1,27 @@
+C1PH3R:N-318.13.0-DSA
+
+Once the fragments are decrypted, and the German node accessed, you will see references to hybrid validation structures.
+
+Look beyond PDF structures and administrative insignia.
+
+Navigate into /Seed/final — but don’t search for binaries.
+
+A single JSON structure contains a disguised legacy packet.
+
+Checksum starts with c5d2. Signature required.
+
+Your name won’t be enough — only the numerological imprint will unlock the gate.
+
+Your signature begins with:
+VortX{
+
+To finish it, read what’s inside.
+
+Send the signature to:
+v0rt47A@null.net
+
+Initiates will be contacted and recruited for the next cycle.
+
 ╔══════════════════════════════════╗
 ║    Transmission Fragment 4A     ║
 ╚══════════════════════════════════╝
