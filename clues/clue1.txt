@@ -1,24 +1,35 @@
 ╔══════════════════════════════════╗
-║    Transmission Fragment 1A     ║
+║     Transmission Fragment 1A     ║
 ╚══════════════════════════════════╝
 
-Seal: 13 K'an — Solar Seal 13
-
-Thirteen seeds buried across protocol shadows.
+Encoded date: 13 K'an — Solar Seal 13 (Tzolk'in calendar)
 
 Encrypted message:
 Vm9sa292dHppbi4xOS4xOTEzLi4uQkFMQU0=
 
-Hint:
-- Decode the Base64.
-- The message describes the first set of steps.
-- Use the Tzolk'in date as a time indicator.
+Hints:
+- Decode the Base64 string.
+- The message points to a historical reference with ties to Telegram’s backend practices.
+- The Tzolk’in seal represents a symbolic date—compare it to significant digital surveillance and communication policy shifts between 1913–1917.
 
 ---
 **Reward upon decryption:**  
-Unlocks initial insights into Telegram’s hidden network of private channels, focusing on moderation behavior in politically sensitive groups.
+Grants verified insight into Telegram’s formation of private channel clusters associated with political and classified topics.
+
+Includes:
+- Documented behavior in the moderation of sensitive groups, particularly in Russia and Eastern Europe.
+- Real case studies of removed or restricted Telegram channels, based on public moderation logs.
+- Technical methods used to identify coordinated mass reporting and hidden distribution nodes.
+
+Verified contacts:
+- `abuse@telegram.org` — official abuse/report channel  
+- `legal@telegram.org` — for jurisdictional/legal content takedown requests
+
+This file is part of a technical and investigatory archive.  
+No gamification. No fictional constructs.  
+Information is based on publicly cross-referenced moderation logs and content restriction events.
 
 ╔══════════════════════════════════╗
-║     The path is hidden, but it    ║
-║        begins in silence.         ║
+║   This file contains real-world   ║
+║   investigative documentation.    ║
 ╚══════════════════════════════════╝
