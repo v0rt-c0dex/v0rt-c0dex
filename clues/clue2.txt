@@ -4,29 +4,35 @@
 
 Seal: 7 K'at — Red Network
 
-Nodes are unseen but pulse with the report.  
-The channel still lives, yet no longer exists.
+Certain nodes remain invisible, but respond precisely to external signals.  
+Some channels persist functionally but are removed from global visibility.
 
-> "When a channel receives 5 reports within 30 seconds from accounts that never interacted, the server applies a 'silent algorithm'."
+> "Telegram applies silent restrictions when 5 or more unrelated reports hit within 30 seconds — no user interaction required."
 
-> "The most effective method: coordinated traffic from spoofed WebK+TDLib instances routed through Tor nodes with Russian fingerprints."
+> "Coordinated abuse using spoofed WebK and TDLib clients routed via Tor exit nodes (with known Russian ASN signatures) has proven most efficient."
 
 Encrypted message:
 
 ZEdobElIUmxiblJoYm1RZ1pXNWpiSFZrWldOb1pXbHVJRzFwYm1jPQ==
 
 Hint:
-- Original message is in Spanish.
-- Decode the Base64.
-- Apply Caesar cipher: shift -9
-- Interpret under Long Count structure: baktun.katun.tun.uinal.kin
+- Original plaintext was in Spanish.
+- First, decode the Base64.
+- Then apply Caesar cipher: shift -9
+- Structure the result as a Long Count date: baktun.katun.tun.uinal.kin
 
 ---
 **Reward upon decryption:**  
-You will unlock a hidden list of IPv6 addresses used in shadowban attacks via simulated web traffic.  
-These addresses have been linked to mass-silencing operations targeting political Telegram channels.
+Grants access to a list of IPv6 endpoints identified in mass-silencing simulation tests.  
+Each linked to known operations targeting political or investigative Telegram groups across Eastern Europe.
+
+Verified sources:
+- Open ASN logs from `RIPE NCC` and `Roskomnadzor` observations (2022–2023)  
+- Metadata archives from TDLib + WebK injection clients  
+- Previously redacted abuse vectors used in 'disappearance cases'
 
 ╔══════════════════════════════════╗  
-║         Silence also has         ║  
-║         an infrastructure.       ║  
+║  Suppression does not always     ║  
+║  remove content — it erases      ║  
+║  its visibility infrastructure.  ║  
 ╚══════════════════════════════════╝
